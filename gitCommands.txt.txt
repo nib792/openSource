@@ -7,5 +7,5 @@ git push
 
 
 
-TOKEN:
+TOKEN generated once:
 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
