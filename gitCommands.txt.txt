@@ -1,0 +1,11 @@
+git init
+git add .
+git commit -m "initial commit"
+git remote add origin https://github.com/nib792/openSource.git
+git remote set-url origin https://nib792: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@github.com/nib792/openSource.git
+git push
+
+
+
+TOKEN:
+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
